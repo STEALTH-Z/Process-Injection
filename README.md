@@ -5,10 +5,3 @@
  | |  | | |    | |_) | | (_| | (__|   <  / /|  __/ | | (_) |
  |_|  |_|_|    |____/|_|\__,_|\___|_|\_\/____\___|_|  \___/ 
                                                             
-
-# Process-Injection
-Process-Injection with c# 
-programmer : Mr Black Zero
----------
-telegram me : @Mr_BlackZero
---------
