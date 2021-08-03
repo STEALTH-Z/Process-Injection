@@ -49,7 +49,8 @@ step2 => configuration Visual Studio
 
 =>>>>Note I have already added x64
 
-![5](https://user-images.githubusercontent.com/63192240/127992345-55b0da45-1d2a-4068-8ba3-90450c5628fc.PNG)
+![10](https://user-images.githubusercontent.com/63192240/127995085-af91de86-df7a-4d1b-aaaf-1d0933dc9ca5.png)
+
 
 ![9](https://user-images.githubusercontent.com/63192240/127992409-c0e1d368-e121-4dcb-af99-70fc48c8e506.PNG)
 --> paste shellcode 
