@@ -1,1 +1,0 @@
-c:\users\ghost\documents\visual studio 2013\Projects\Process Injection in Csharp\Process Injection in Csharp\bin\Debug\Process Injection in Csharp.exe.config
